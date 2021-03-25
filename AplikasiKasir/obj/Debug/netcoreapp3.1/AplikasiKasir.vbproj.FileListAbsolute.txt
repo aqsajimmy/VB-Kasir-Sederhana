@@ -1,0 +1,16 @@
+D:\VBProjek\AplikasiKasir\obj\Debug\netcoreapp3.1\AplikasiKasir.vbprojAssemblyReference.cache
+D:\VBProjek\AplikasiKasir\obj\Debug\netcoreapp3.1\AplikasiKasir.Form1.resources
+D:\VBProjek\AplikasiKasir\obj\Debug\netcoreapp3.1\AplikasiKasir.vbproj.GenerateResource.cache
+D:\VBProjek\AplikasiKasir\obj\Debug\netcoreapp3.1\AplikasiKasir.AssemblyInfoInputs.cache
+D:\VBProjek\AplikasiKasir\obj\Debug\netcoreapp3.1\AplikasiKasir.AssemblyInfo.vb
+D:\VBProjek\AplikasiKasir\obj\Debug\netcoreapp3.1\AplikasiKasir.vbproj.CoreCompileInputs.cache
+D:\VBProjek\AplikasiKasir\bin\Debug\netcoreapp3.1\AplikasiKasir.exe
+D:\VBProjek\AplikasiKasir\bin\Debug\netcoreapp3.1\AplikasiKasir.deps.json
+D:\VBProjek\AplikasiKasir\bin\Debug\netcoreapp3.1\AplikasiKasir.runtimeconfig.json
+D:\VBProjek\AplikasiKasir\bin\Debug\netcoreapp3.1\AplikasiKasir.runtimeconfig.dev.json
+D:\VBProjek\AplikasiKasir\bin\Debug\netcoreapp3.1\AplikasiKasir.dll
+D:\VBProjek\AplikasiKasir\bin\Debug\netcoreapp3.1\AplikasiKasir.pdb
+D:\VBProjek\AplikasiKasir\obj\Debug\netcoreapp3.1\AplikasiKasir.dll
+D:\VBProjek\AplikasiKasir\obj\Debug\netcoreapp3.1\AplikasiKasir.pdb
+D:\VBProjek\AplikasiKasir\obj\Debug\netcoreapp3.1\AplikasiKasir.genruntimeconfig.cache
+D:\VBProjek\AplikasiKasir\obj\Debug\netcoreapp3.1\AplikasiKasir.Resources.resources
